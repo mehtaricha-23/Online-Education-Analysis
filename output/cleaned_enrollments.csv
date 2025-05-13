@@ -1,0 +1,151 @@
+Student_ID,Course_ID,Enroll_Date,Completion_Status,Score,Name,Country,Course_Name,Category,Score_Band
+1017,203,2023-10-15,In Progress,70.56,Student_17,Germany,Course_3,Design,Low
+1036,201,2023-12-08,In Progress,88.88,Student_36,Canada,Course_1,Design,High
+1050,205,2023-05-31,Completed,74.02,Student_50,Germany,Course_5,Design,Low
+1040,201,2023-05-07,Completed,99.26,Student_40,India,Course_1,Design,High
+1004,208,2023-06-04,Completed,68.84,Student_4,Canada,Course_8,Business,Low
+1002,201,2023-09-30,Completed,87.48,Student_2,Canada,Course_1,Design,High
+1006,201,2023-04-14,Completed,69.65,Student_6,India,Course_1,Design,Low
+1042,202,2023-10-26,In Progress,91.46,Student_42,USA,Course_2,Business,High
+1004,202,2023-09-03,Completed,78.45,Student_4,Canada,Course_2,Business,Medium
+1029,206,2023-06-25,In Progress,53.18,Student_29,Germany,Course_6,Data Science,Low
+1018,207,2023-02-08,Completed,51.84,Student_18,Canada,Course_7,Design,Low
+1026,205,2023-06-19,In Progress,56.69,Student_26,UK,Course_5,Design,Low
+1044,201,2023-09-04,Completed,50.68,Student_44,India,Course_1,Design,Low
+1034,201,2023-01-26,Completed,53.77,Student_34,USA,Course_1,Design,Low
+1010,203,2023-12-21,Completed,84.59,Student_10,Canada,Course_3,Design,Medium
+1036,202,2023-11-02,In Progress,76.72,Student_36,Canada,Course_2,Business,Medium
+1014,205,2023-01-13,Completed,87.5,Student_14,India,Course_5,Design,High
+1031,210,2023-11-12,Dropped,95.66,Student_31,UK,Course_10,Programming,High
+1048,206,2023-11-09,Completed,79.26,Student_48,Canada,Course_6,Data Science,Medium
+1015,207,2023-02-05,Completed,86.31,Student_15,Germany,Course_7,Design,High
+1008,204,2023-06-22,Dropped,87.85,Student_8,UK,Course_4,Business,High
+1014,207,2023-01-20,Completed,68.89,Student_14,India,Course_7,Design,Low
+1023,208,2023-11-17,Completed,62.05,Student_23,Germany,Course_8,Business,Low
+1040,201,2023-09-21,Completed,60.25,Student_40,India,Course_1,Design,Low
+1021,206,2023-05-22,Completed,62.57,Student_21,India,Course_6,Data Science,Low
+1016,208,2023-05-23,In Progress,63.74,Student_16,India,Course_8,Business,Low
+1045,205,2023-04-02,Completed,60.36,Student_45,India,Course_5,Design,Low
+1018,204,2023-12-20,Completed,93.91,Student_18,Canada,Course_4,Business,High
+1047,202,2023-11-18,Completed,87.85,Student_47,India,Course_2,Business,High
+1024,206,2023-10-15,In Progress,52.34,Student_24,USA,Course_6,Data Science,Low
+1026,206,2023-08-03,Completed,63.43,Student_26,UK,Course_6,Data Science,Low
+1025,201,2023-12-08,Completed,51.11,Student_25,USA,Course_1,Design,Low
+1045,209,2023-02-20,In Progress,74.91,Student_45,India,Course_9,Business,Low
+1041,206,2023-06-02,In Progress,73.81,Student_41,Germany,Course_6,Data Science,Low
+1029,203,2023-07-05,Completed,91.57,Student_29,Germany,Course_3,Design,High
+1015,204,2023-03-04,Completed,65.39,Student_15,Germany,Course_4,Business,Low
+1045,204,2023-07-09,Completed,90.82,Student_45,India,Course_4,Business,High
+1001,203,2023-05-05,Completed,98.4,Student_1,Germany,Course_3,Design,High
+1025,210,2023-05-30,Completed,54.42,Student_25,USA,Course_10,Programming,Low
+1007,203,2023-11-10,Completed,89.59,Student_7,UK,Course_3,Design,High
+1009,203,2023-02-27,Completed,79.5,Student_9,UK,Course_3,Design,Medium
+1024,204,2023-12-08,Completed,74.0,Student_24,USA,Course_4,Business,Low
+1001,207,2023-11-01,Dropped,71.03,Student_1,Germany,Course_7,Design,Low
+1044,204,2023-06-29,In Progress,89.23,Student_44,India,Course_4,Business,High
+1008,209,2023-06-19,Completed,81.97,Student_8,UK,Course_9,Business,Medium
+1024,201,2023-11-22,Dropped,90.25,Student_24,USA,Course_1,Design,High
+1011,208,2023-09-28,In Progress,95.16,Student_11,Germany,Course_8,Business,High
+1017,207,2023-02-23,Completed,80.86,Student_17,Germany,Course_7,Design,Medium
+1008,202,2023-04-11,Completed,99.02,Student_8,UK,Course_2,Business,High
+1035,208,2023-09-21,Completed,80.4,Student_35,UK,Course_8,Business,Medium
+1035,201,2023-02-22,Completed,81.83,Student_35,UK,Course_1,Design,Medium
+1033,209,2023-03-01,In Progress,77.74,Student_33,Germany,Course_9,Business,Medium
+1005,209,2023-04-18,Completed,54.55,Student_5,Canada,Course_9,Business,Low
+1042,202,2023-01-05,Completed,86.32,Student_42,USA,Course_2,Business,High
+1039,207,2023-04-13,Dropped,77.37,Student_39,USA,Course_7,Design,Medium
+1041,210,2023-07-15,In Progress,72.55,Student_41,Germany,Course_10,Programming,Low
+1028,203,2023-09-19,Completed,95.52,Student_28,India,Course_3,Design,High
+1007,207,2023-12-31,Dropped,64.9,Student_7,UK,Course_7,Design,Low
+1009,210,2023-12-16,Dropped,76.18,Student_9,UK,Course_10,Programming,Medium
+1008,209,2023-02-16,Dropped,84.88,Student_8,UK,Course_9,Business,Medium
+1012,204,2023-12-21,Completed,89.82,Student_12,UK,Course_4,Business,High
+1034,201,2023-11-07,In Progress,72.97,Student_34,USA,Course_1,Design,Low
+1033,202,2023-11-04,Completed,92.1,Student_33,Germany,Course_2,Business,High
+1048,201,2023-05-24,In Progress,88.45,Student_48,Canada,Course_1,Design,High
+1023,205,2023-09-26,Dropped,53.31,Student_23,Germany,Course_5,Design,Low
+1024,205,2023-05-04,In Progress,52.29,Student_24,USA,Course_5,Design,Low
+1037,207,2023-04-16,In Progress,81.04,Student_37,UK,Course_7,Design,Medium
+1035,209,2023-06-07,In Progress,67.37,Student_35,UK,Course_9,Business,Low
+1044,209,2023-05-27,In Progress,60.46,Student_44,India,Course_9,Business,Low
+1040,203,2023-05-25,Completed,78.98,Student_40,India,Course_3,Design,Medium
+1022,203,2023-04-30,Completed,67.08,Student_22,Canada,Course_3,Design,Low
+1027,203,2023-11-15,Completed,76.86,Student_27,UK,Course_3,Design,Medium
+1035,204,2023-10-02,In Progress,73.01,Student_35,UK,Course_4,Business,Low
+1001,208,2023-04-02,Completed,79.24,Student_1,Germany,Course_8,Business,Medium
+1035,206,2023-02-27,Completed,70.02,Student_35,UK,Course_6,Data Science,Low
+1037,208,2023-12-12,Completed,84.88,Student_37,UK,Course_8,Business,Medium
+1047,201,2023-08-17,Completed,59.0,Student_47,India,Course_1,Design,Low
+1014,208,2023-04-27,In Progress,84.83,Student_14,India,Course_8,Business,Medium
+1003,204,2023-11-14,In Progress,70.58,Student_3,UK,Course_4,Business,Low
+1001,201,2023-10-06,Completed,93.72,Student_1,Germany,Course_1,Design,High
+1005,208,2023-05-07,Dropped,75.76,Student_5,Canada,Course_8,Business,Medium
+1026,204,2023-05-09,Completed,98.66,Student_26,UK,Course_4,Business,High
+1014,206,2023-02-27,Completed,80.1,Student_14,India,Course_6,Data Science,Medium
+1039,208,2023-05-02,In Progress,61.19,Student_39,USA,Course_8,Business,Low
+1027,204,2023-01-01,Completed,91.09,Student_27,UK,Course_4,Business,High
+1009,203,2023-08-27,Completed,67.25,Student_9,UK,Course_3,Design,Low
+1015,209,2023-10-17,In Progress,67.38,Student_15,Germany,Course_9,Business,Low
+1015,203,2023-04-06,Completed,51.59,Student_15,Germany,Course_3,Design,Low
+1026,209,2023-05-06,Completed,77.44,Student_26,UK,Course_9,Business,Medium
+1042,202,2023-04-28,Completed,76.72,Student_42,USA,Course_2,Business,Medium
+1013,202,2023-02-17,Completed,67.8,Student_13,Canada,Course_2,Business,Low
+1032,202,2023-03-30,Completed,94.71,Student_32,Germany,Course_2,Business,High
+1039,206,2023-08-25,Completed,56.44,Student_39,USA,Course_6,Data Science,Low
+1049,203,2023-09-29,In Progress,66.5,Student_49,India,Course_3,Design,Low
+1032,209,2023-07-08,In Progress,66.08,Student_32,Germany,Course_9,Business,Low
+1004,204,2023-07-11,In Progress,54.61,Student_4,Canada,Course_4,Business,Low
+1030,201,2023-03-10,In Progress,74.06,Student_30,Germany,Course_1,Design,Low
+1037,204,2023-10-05,In Progress,84.39,Student_37,UK,Course_4,Business,Medium
+1023,201,2023-12-15,Completed,75.58,Student_23,Germany,Course_1,Design,Medium
+1039,205,2023-09-04,Completed,57.85,Student_39,USA,Course_5,Design,Low
+1045,204,2023-03-17,Completed,68.86,Student_45,India,Course_4,Business,Low
+1015,208,2023-06-03,Completed,50.13,Student_15,Germany,Course_8,Business,Low
+1043,208,2023-05-24,Completed,93.42,Student_43,Germany,Course_8,Business,High
+1029,207,2023-03-27,Completed,54.23,Student_29,Germany,Course_7,Design,Low
+1036,203,2023-07-04,In Progress,79.86,Student_36,Canada,Course_3,Design,Medium
+1013,201,2023-10-12,Dropped,99.31,Student_13,Canada,Course_1,Design,High
+1032,201,2023-08-08,Completed,76.83,Student_32,Germany,Course_1,Design,Medium
+1007,203,2023-03-10,Completed,96.2,Student_7,UK,Course_3,Design,High
+1022,206,2023-02-16,Completed,61.81,Student_22,Canada,Course_6,Data Science,Low
+1028,207,2023-04-04,Dropped,88.0,Student_28,India,Course_7,Design,High
+1002,206,2023-08-26,Dropped,76.56,Student_2,Canada,Course_6,Data Science,Medium
+1042,206,2023-07-23,Completed,86.03,Student_42,USA,Course_6,Data Science,High
+1045,206,2023-08-06,In Progress,53.12,Student_45,India,Course_6,Data Science,Low
+1006,203,2023-12-07,Completed,57.39,Student_6,India,Course_3,Design,Low
+1028,206,2023-02-08,Completed,56.66,Student_28,India,Course_6,Data Science,Low
+1028,208,2023-04-10,Completed,84.36,Student_28,India,Course_8,Business,Medium
+1044,202,2023-10-16,Completed,92.22,Student_44,India,Course_2,Business,High
+1044,205,2023-09-11,Dropped,87.48,Student_44,India,Course_5,Design,High
+1020,201,2023-08-10,In Progress,51.52,Student_20,Germany,Course_1,Design,Low
+1030,201,2023-12-23,Completed,93.36,Student_30,Germany,Course_1,Design,High
+1011,205,2023-01-23,In Progress,67.71,Student_11,Germany,Course_5,Design,Low
+1028,203,2023-09-07,Dropped,69.86,Student_28,India,Course_3,Design,Low
+1025,204,2023-01-10,Dropped,55.24,Student_25,USA,Course_4,Business,Low
+1039,203,2023-09-03,Completed,86.87,Student_39,USA,Course_3,Design,High
+1033,201,2023-11-21,Completed,59.11,Student_33,Germany,Course_1,Design,Low
+1001,201,2023-04-10,Completed,78.2,Student_1,Germany,Course_1,Design,Medium
+1027,205,2023-10-17,Completed,92.04,Student_27,UK,Course_5,Design,High
+1013,206,2023-06-29,Completed,54.46,Student_13,Canada,Course_6,Data Science,Low
+1041,203,2023-08-11,In Progress,76.77,Student_41,Germany,Course_3,Design,Medium
+1003,209,2023-09-07,Completed,61.66,Student_3,UK,Course_9,Business,Low
+1039,205,2023-05-27,Completed,67.15,Student_39,USA,Course_5,Design,Low
+1006,208,2023-04-06,Completed,73.7,Student_6,India,Course_8,Business,Low
+1008,201,2023-09-14,Completed,67.76,Student_8,UK,Course_1,Design,Low
+1027,205,2023-11-21,Completed,82.44,Student_27,UK,Course_5,Design,Medium
+1009,203,2023-01-04,Completed,73.98,Student_9,UK,Course_3,Design,Low
+1037,201,2023-01-16,Completed,79.21,Student_37,UK,Course_1,Design,Medium
+1033,204,2023-10-07,Completed,86.84,Student_33,Germany,Course_4,Business,High
+1042,205,2023-12-02,Completed,77.89,Student_42,USA,Course_5,Design,Medium
+1044,207,2023-09-04,In Progress,79.33,Student_44,India,Course_7,Design,Medium
+1024,201,2023-09-15,Completed,78.22,Student_24,USA,Course_1,Design,Medium
+1015,203,2023-06-09,Completed,68.94,Student_15,Germany,Course_3,Design,Low
+1032,202,2023-12-06,Completed,66.87,Student_32,Germany,Course_2,Business,Low
+1032,209,2023-06-01,Dropped,94.98,Student_32,Germany,Course_9,Business,High
+1024,210,2023-06-27,Completed,80.38,Student_24,USA,Course_10,Programming,Medium
+1041,206,2023-06-12,Completed,62.22,Student_41,Germany,Course_6,Data Science,Low
+1049,210,2023-02-02,Dropped,74.91,Student_49,India,Course_10,Programming,Low
+1049,203,2023-06-28,Completed,66.52,Student_49,India,Course_3,Design,Low
+1012,208,2023-04-11,In Progress,96.68,Student_12,UK,Course_8,Business,High
+1039,208,2023-09-25,Completed,50.38,Student_39,USA,Course_8,Business,Low
+1002,202,2023-11-19,Completed,61.27,Student_2,Canada,Course_2,Business,Low
